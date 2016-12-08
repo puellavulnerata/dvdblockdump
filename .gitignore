@@ -1,0 +1,28 @@
+# vim turds
+.*.sw?
+# emacs turds
+*~
+
+# autotools generated files
+.deps
+.dirstamp
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+configure
+config.guess
+config.log
+config.status
+config.sub
+compile
+depcomp
+config.h
+config.h.in
+install-sh
+missing
+stamp-h1
+
+# built files
+*.o
+dvdblockdump
