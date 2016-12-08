@@ -1,4 +1,4 @@
-AC_INIT([dvdblockdump],[0.0.0])
+AC_INIT([dvdblockdump],[0.1.0])
 AC_CONFIG_SRCDIR([dvdblockdump.c])
 AC_CONFIG_MACRO_DIR([m4])
 AM_INIT_AUTOMAKE()
